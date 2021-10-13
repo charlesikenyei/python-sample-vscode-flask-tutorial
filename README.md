@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/charlesikenyei/python-project/_apis/build/status/charlesikenyei.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/charlesikenyei/python-project/_build/latest?definitionId=7&branchName=master)
+
 
 # Python/Flask Tutorial for Visual Studio Code
 
